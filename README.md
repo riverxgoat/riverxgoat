@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riverxgoat!
 - 👀 I’m interested in learning code, in hope to become a front-end developer.
 - 🌱 I’m currently learning Learning HTML / CSS / Javascript
-- 🧠 I want to learn React / Python
+- 🧠 I want to learn React / Python / ABAP
 - 🎓 I have a Master's degree in Communications.
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me : PM
