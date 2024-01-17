@@ -1,4 +1,4 @@
-🚀 [riverxgoat.github.io]
+🚀 [riverxgoat.github.io](url)
 
 - 👋 Hi, I’m @riverxgoat!
 - 👀 I’m interested in learning code, in hope to become a front-end developer.
