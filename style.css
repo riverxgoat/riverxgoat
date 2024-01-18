@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 body {
+    color: red;
     font-family: 'Muli', sans-serif;
     display: flex;
     align-items: center;
